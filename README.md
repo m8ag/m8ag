@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate SW/AI developer from Italy</h3>
 
+- XX Studied Biomedical Engineer at the Politecnico di Milano, Italy
 - 📫 How to reach me **m87999831@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
